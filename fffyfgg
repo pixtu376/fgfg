@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html style="colore;red">
+<head>
+  <title>хей получилось</title>
+  <meta name="text" content="это мой первый опыт">
+  <meta name="text2" content="эй как дела">
+  <link rel="icon" href="черешня.jpg">
+  <link rel="stylesheet" href="style.css">
+  <style>
+  body{
+    background-image: url(https://2ch.hk/dr/src/236639/15659890699810.jpg);
+  }
+  </style>
+</head>
+<body>
+    <meta chrset="utf-8">
+    <h1>да ну нахрен h1</h1>
+    <h2>а есть раззница</h2>
+    <p id="tailer">а это текст p</p>
+    <img src="черешня.jpg" width="900" height="450" alt="куку епт" align="rigt">
+    <img src="https://pbs.twimg.com/profile_images/423209691112833024/pwAMNU2U.jpeg"
+    <p> ну а тег <br> br это перенос</p>
+    <p> ну а тег b это <b> жирный текст</b></p>
+    <p> ну а em это <em> красивый текст</em> </p>
+    <p> hr это полоса как после списка
+      <a href="https://www.youtube.com/watch?v=qSHP98i9mDU" target="_blank"> ссылка на ролик</a>
+      <br>
+      <a href="#tailer">якорь на текст</a>
+      <ul>
+        <li>первый элемент списка</li>
+        <li>второй элемент списка</li>
+        <li>это как список серверов или видео ну или текста li тег</li>
+        <li><a href="https://amedia.online/6-van-pis/episode/112/seriya-onlayn.html" target="_blank"> это ван пис</a></li>
+        <hr>
+        <table>
+          <thead>
+              <tr>
+                <th>модель</th>
+                <th>стоимость</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>567</td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>678</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>987</td>
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="2">итог для всех моделей продай почку</td>
+              </tr>
+            </tfoot>
+        </table>
+        <input type="text" name="">
+
+
+
+
+
+</body>
+</html>
